@@ -594,3 +594,5 @@
 2022-06-09 18:46:18,418 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-06-09 18:47:12,919 [Worker-46: Launching DIMainJavaver] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-06-09 18:47:12,925 [Worker-46: Launching DIMainJavaver] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-09 18:47:12,932 [Worker-46: Launching DIMainJavaver] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-09 18:47:12,935 [Worker-46: Launching DIMainJavaver] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
