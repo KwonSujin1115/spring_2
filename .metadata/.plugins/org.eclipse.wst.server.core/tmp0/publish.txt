@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jun 06 20:28:49 KST 2022
+org.eclipse.jst.jee.server\:SpringTest=C\:\\apache-tomcat-9.0.63\\wtpwebapps\\SpringTest
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\workgroup\\.m2\\repository\\org\\springframework\\spring-web\\5.0.7.RELEASE\\spring-web-5.0.7.RELEASE.jar=C\:\\apache-tomcat-9.0.63\\wtpwebapps\\SpringTest\\WEB-INF\\lib\\spring-web-5.0.7.RELEASE.jar
